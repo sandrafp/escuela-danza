@@ -1,0 +1,211 @@
+*a{
+	text-decoration: none;
+}
+.menu a,ul{
+	text-decoration: none;
+	color:gray;
+
+}
+
+.men li{
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10% 8%;
+}
+
+li:hover{
+	background-color:  #192951;
+	padding: 5% 8%;
+	color: white;
+}
+a:hover{
+	color: white;
+}
+.bailarines{
+	background: url("../img/dance_1.jpg");
+	max-width: 100%;
+	
+
+}
+
+#bailar{
+	position: relative;
+	color:white;
+}
+#studio{
+	font-size: 30px;
+	color:gray;
+	padding-top: 20%;
+}
+.puno{
+	padding-top: 20%;
+	padding-bottom: 20%;
+	padding-right: 30%
+}
+#inscribete{
+	
+	background-color: #192951;
+	color: gray;
+	margin-bottom: 20%;
+	display: inline-block;
+	padding: 5% 10%;
+}
+
+#inscribete:hover{
+	background-color: green;
+	color: white;
+
+}
+
+.bg-img-block.dancer-uno{
+	background: url("../img/instructor_4.jpg");
+	background-size: cover;
+
+	
+	
+
+}
+.bg-img-block.dancer-dos{
+	background: url("../img/profesor_9.jpg");
+	background-size: cover;
+	
+	
+}
+
+.pdos{
+	padding-top: 20%;
+	font-size: 30px;
+	text-align: center;
+
+}
+.decoracion{
+	padding-top: 0%;
+	padding-left: 40%;
+	padding-right: 40%;
+	width: 100%;
+}
+
+.oferta{
+	display:inline-block;
+	background-color: #192951;
+    text-decoration: none;
+    padding: 5% 10%;
+    margin-left: 30%;
+    font-size: 30px;
+    color: gray;
+    border-radius: 5%;
+    margin-bottom: 10%;
+}
+.oferta:hover{
+	background-color: green;
+	color: white;
+
+}
+.posicion{
+	padding-top: 0;
+	height: 300px;
+}
+
+#instru{
+   color: gray;
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+    bottom: 88px;
+    display: inline-block;
+    background-color: #192951;
+    margin-left: 35%;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+
+}
+#instru:hover{
+	background-color: green;
+	color: white;
+
+
+}
+
+.frase{
+	background-color:rgb(244, 244, 244); 
+	text-align: center;
+	padding: 10% 5%;
+	font-size: 35px;
+}
+.color-mapa{
+	background-color:  #192951;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.derecha p{
+     padding: 0 10%;
+     color: gray;
+
+}
+#visitanos{
+	padding: 5% 10%;
+	font-size: 30px;
+	color: white;
+	padding-bottom: 0%;
+
+}
+.forma{
+	background: url("../img/shoes_1.jpg");
+	background-size: cover;
+}
+.formulario{
+	display: block;
+	margin: 5% 0%;
+}
+#contacto{
+	font-size: 40px;
+	color:#192951;
+	padding-top: 10%; 
+}
+
+label{
+	display: block;
+}
+input{
+	margin-bottom:8%;
+	border: 1px solid gray;
+	padding: 5% 10%; 
+	padding-right: 50%;
+}
+textarea{
+	border: 1px solid gray;
+	max-width: 460px;
+	max-height: 200px;
+	min-height: 100px;
+	padding: 5% 10%;
+	min-width: 325px;
+}
+
+#enviar{
+	background-color: #192951;
+	color: gray;
+	margin-top: 7%;
+	padding: 7% 37%;
+	margin-bottom: 20%;
+	font-size: 25px;
+
+}
+#enviar:hover{
+	background-color: green;
+	color: white;
+
+	
+}
+#enviar-dos{
+	background-color: black;
+	color: white;
+
+}
+
+footer{
+	background-color:#192951 ;
+	color: white;
+	font-size: 16px;
+	padding: 3% 0%;
+}
