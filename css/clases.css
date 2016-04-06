@@ -1,1 +1,132 @@
-/* Inserta tu codigo aqui */
+.menu a,ul{
+	text-decoration: none;
+	color:gray;
+
+}
+
+.men li{
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10% 8%;
+}
+
+li:hover{
+	background-color:  #192951;
+	padding: 5% 8%;
+	color: white;
+}
+a:hover{
+	color: white;
+}
+
+.imagen{
+	background-color: rgb(244, 244, 244);
+}
+
+.diciplinas-1{
+	background: url("../img/dance_12.jpg");
+	background-size: cover;
+}
+
+.diciplinas-2{
+	background: url("../img/breakdance.jpg");
+	background-size: cover;
+}
+
+.diciplinas-3{
+	background: url("../img/lirical-jazz.jpg");
+	background-size: cover;
+}
+
+.diciplinas-4{
+	background: url("../img/arabe.jpg");
+	background-size: cover;
+}
+
+.diciplinas-5{
+	background: url("../img/little.jpg");
+	background-size: cover;
+}
+
+.diciplinas-6{
+	background: url("../img/yoga.jpg");
+	background-size: cover;
+}
+
+.s3 {
+	margin: 4% 2%;
+}
+.color-fondo{
+	background-color: rgb(244, 244, 244)
+}
+
+.classes{
+
+	margin-bottom:50%;
+	padding-bottom: 15%;
+	background-color:blue;
+	color: white; 
+}
+
+/*falta parte de recuadros */
+
+.forma{
+	background: url("../img/shoes_1.jpg");
+	background-size: cover;
+}
+.formulario{
+	display: block;
+	margin: 5% 0%;
+}
+#contacto{
+	font-size: 40px;
+	color:#192951;
+	padding-top: 10%; 
+}
+
+label{
+	display: block;
+}
+input{
+	margin-bottom:8%;
+	border: 1px solid gray;
+	padding: 5% 10%; 
+	padding-right: 50%;
+}
+textarea{
+	border: 1px solid gray;
+	max-width: 460px;
+	max-height: 200px;
+	min-height: 100px;
+	padding: 5% 10%;
+	min-width: 325px;
+}
+
+#enviar{
+	background-color: #192951;
+	color: gray;
+	margin-top: 7%;
+	padding: 7% 37%;
+	margin-bottom: 20%;
+	font-size: 25px;
+
+}
+#enviar:hover{
+	background-color: green;
+	color: white;
+
+	
+}
+#enviar-dos{
+	background-color: black;
+	color: white;
+
+}
+
+footer{
+	background-color:#192951 ;
+	color: white;
+	font-size: 16px;
+	padding: 3% 0%;
+}
